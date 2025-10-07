@@ -83,15 +83,33 @@ text
 ipl-team-prediction/
 │
 ├── data/ # Dataset files
+
+
 ├── notebooks/ # Exploratory data analysis notebooks
+
+
 ├── src/
 │ ├── preprocess.py # Data cleaning and feature engineering
+
+
 │ ├── train_model.py # Model training and evaluation
+
+
 │ ├── predict.py # Prediction scripts
+
+
 │ └── utils.py # Utility functions
+
+
 ├── requirements.txt # Dependencies list
+
+
 ├── README.md # Project overview and instructions
+
+
 └── results/ # Model outputs and evaluation reports
+
+
 
 text
 
@@ -108,8 +126,9 @@ text
 
 ## Contact
 For any queries or contributions, please contact:  
-Email: your.email@example.com  
-GitHub: [your-github-profile]
+Name : Badaal Singh
+Email: singh.badal3375@gmail.com 
+GitHub:  https://github.com/Badal3375
 
 ---
 
