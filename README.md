@@ -1,8 +1,16 @@
 
 Badal singh 
 Email- singh.badal3375@gmail.com
+
+
 badalsingh.badal3375@gmail.com
+
+
+
 linkedi ID -https://www.linkedin.com/in/badalsingh91/
+
+
+
 Git ID-https://github.com/Badal3375
 
  
